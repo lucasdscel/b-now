@@ -9,7 +9,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "My App",
+    default: "bNow",
     template: "%s | My App",
   },
   description: "Built with Next.js 14, TypeScript, Tailwind CSS and shadcn/ui",
