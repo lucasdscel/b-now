@@ -10,6 +10,8 @@
     "types:db": "supabase gen types typescript --project-id rewoheafremcwoioobop > types/database.ts"
   },
   "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-slot": "^1.2.4",
     "@supabase/ssr": "^0.10.2",
     "@supabase/supabase-js": "^2.104.0",
     "camelcase-keys": "^10.0.2",
