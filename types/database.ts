@@ -1,8 +1,3 @@
-/**
- * Auto-generado por: npm run types:db
- * NO editar manualmente — regenerar con el comando anterior.
- */
-
 export type Json =
   | string
   | number
